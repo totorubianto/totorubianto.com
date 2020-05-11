@@ -48,7 +48,7 @@
   "license": "MIT",
   "main": "n/a",
   "scripts": {
-    "build": "gatsby build && cp src/static-assets/twitter-card.png public/static/twitter-card.png",
+    "build": "gatsby build && cp src/static-assets/twitter-card.png public/static/twitter-card.png && cp src/static-assets/IMG_20191001_080900_885.jpg public/static/IMG_20191001_080900_885.jpg",
     "start": "gatsby develop",
     "format": "prettier --trailing-comma es5 --single-quote --write \"src/**/*.js\"",
     "lint": "eslint src"

@@ -19,11 +19,11 @@ const theme = {
     ...sharedTheme,
     colors: {
       theme: 'light',
-      primary: '#e7e2e2',
+      primary: '#f5fbff',
       secondary: '#121212',
       link: '#2b32fd',
       syntax: {
-        background: '#e1d7d7',
+        background:'#cae3f7',
         text: '#394244',
       },
     },
@@ -33,7 +33,7 @@ const theme = {
     colors: {
       theme: 'dark',
       primary: '#121212',
-      secondary: '#e7e2e2',
+      secondary: 'white',
       link: '#2b32fd',
       syntax: {
         background: '#1e1e1e',

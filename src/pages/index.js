@@ -34,14 +34,7 @@ const IndexPage = ({data}) => {
           <Inner>
             <H1>Design &amp; code, at scale.</H1>
             <P>
-              I’m Toto, a UI Engineer based in Indonesia. Although being an
-              engineer by trade, I straddle the line between design and code.
-            </P>
-            <P>
-              I have a particular focus on the internal role that UI engineering
-              plays, in regards to design systems, and creating tooling and
-              processes to help product teams scale. I’m currently working at
-              Kalo, developing an internal design system.
+            Hello! I’m Toto, a software engineer. I like coding, especially using Javascript. I hope to contribute to developing Javascript code from some small things that I can make. I also like to explore new technology and make some notes about it in order to try to understand it. 
             </P>
           </Inner>
         </HomeFeature>

@@ -3,7 +3,7 @@ module.exports = {
   siteMetadata: {
     author: 'Toto Rubianto',
     title: `Toto Rubianto - Design & Code`,
-    siteUrl: 'https://totorubianto.com',
+    siteUrl: 'http://totorubianto.com',
     defaultTitle: 'Toto Rubianto - Design & Code',
     defaultDescription:
       'Toto is a digital product designer in Indonesia, building things at Jakarta. Working somewhere on the boundary between design and code.',

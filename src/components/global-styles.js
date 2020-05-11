@@ -41,7 +41,7 @@ export default createGlobalStyle`
     }
 
     html {
-      background-color: ${props => props.theme.colors.primary};
+      background-color: ${props => "white"};
     }
 
     body {

@@ -44,7 +44,7 @@ export default () => (
       </Logo>
     </a>
     <Mo fontSize={1}>
-      London Based UI/UX Engineer currently building design systems at Kalo
+      Jakarta Based Software Engineer currently building design systems at SF
     </Mo>
     <Flair>
       <span role="img" aria-label="lion">

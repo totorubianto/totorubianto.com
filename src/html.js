@@ -20,7 +20,11 @@ export default function HTML({headComponents, body, postBodyComponents}) {
           name="twitter:image"
           content="https://totorubianto.uk/static/twitter-card.png"
         />
-
+        google-site-verification=
+        <meta name="google-site-verification" content="I32s_sWnc79g4NVXJ0GDKGC2BBozigDgZGnC21LzwqQ" />
+        <title>Example Books - high-quality used books for children</title>
+        <meta name="robots" content="noindex,nofollow"></meta>
+        <meta name="description" content="Hello! I’m Toto, a software engineer. I like coding, especially using Javascript. I hope to contribute to developing Javascript code from some small things that I can make. I also like to explore new technology and make some notes about it in order to try to understand it."></meta>
         {headComponents}
       </head>
       <body>

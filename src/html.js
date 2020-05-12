@@ -20,7 +20,6 @@ export default function HTML({headComponents, body, postBodyComponents}) {
           name="twitter:image"
           content="https://totorubianto.uk/static/twitter-card.png"
         />
-        google-site-verification=
         <meta name="google-site-verification" content="I32s_sWnc79g4NVXJ0GDKGC2BBozigDgZGnC21LzwqQ" />
         <title>Example Books - high-quality used books for children</title>
         <meta name="robots" content="noindex,nofollow"></meta>
